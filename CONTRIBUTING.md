@@ -51,7 +51,7 @@ Before beginning work on an issue, it's good to start a thread in the [wildfly-d
 
 
 ### Good First Issues
-Want to contribute to the WildFly Zip Plugin project but aren't quite sure where to start? Look for issues with the `good first issue` label. These are a triaged set of issues that are great for getting started on our project. These can be found [here](https://github.com/wildfly/wildfly-zip-plugin/issues/?q=is%3Aissue state%3Aopen label%3A"good+first+issue").
+Want to contribute to the WildFly Zip Plugin project but aren't quite sure where to start? Look for issues with the `good first issue` label. These are a triaged set of issues that are great for getting started on our project. These can be found [here](https://github.com/wildfly/wildfly-zip-plugin/pulls?q=is%3Aopen+is%3Apr+label%3A%22good+first+issue%22).
 
 
 ## Setting up your Developer Environment
